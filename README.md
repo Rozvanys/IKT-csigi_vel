@@ -1,1 +1,3 @@
-# IKT-csigi_vel
+# ci-lab
+Rozványi Salamon Péter
+Orosz Ignác
